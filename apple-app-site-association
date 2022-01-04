@@ -33,6 +33,10 @@
          {
             "appID":"LES5Y7W6L5.br.com.sulamerica.saude.healthkit",
             "paths":["*"]
+         },
+         {
+            "appID":"23UD69J5JM.com.globant.BeHealthyDemo",
+            "paths":["*"]
          }
       ]
    },
@@ -45,7 +49,8 @@
          "TKH856G5A9.com.globant.int.AppleHealthApp",
          "332N44E879.com.globant.BeHealthy",
          "23UD69J5JM.com.globant.BeHealthy",
-         "LES5Y7W6L5.br.com.sulamerica.saude.healthkit"
+         "LES5Y7W6L5.br.com.sulamerica.saude.healthkit",
+         "23UD69J5JM.com.globant.BeHealthyDemo"
       ]
    }
 }
